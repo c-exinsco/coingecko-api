@@ -1,13 +1,13 @@
 {
-    "name": "codenix-sv/coingecko-api",
+    "name": "c-exinsco/codenix-sv/coingecko-api",
     "type": "library",
     "description": "PHP REST API client for coingecko.com",
-    "homepage": "https://github.com/codenix-sv/coingecko-api",
+    "homepage": "https://github.com/c-exinsco/codenix-sv/coingecko-api",
     "keywords": ["client", "api", "php", "coingecko.com", "rest"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/codenix-sv/coingecko-api/issues?state=open",
-        "source": "https://github.com/codenix-sv/coingecko-api"
+        "issues": "https://github.com/c-exinsco/codenix-sv/coingecko-api/issues?state=open",
+        "source": "https://github.com/c-exinsco/codenix-sv/coingecko-api"
     },
     "authors": [
         {
